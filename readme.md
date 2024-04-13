@@ -1,2 +1,6 @@
-# Zadania z programowania mikrokontrolera ATmega32L na płytce ATP
+# Zadania z programowania mikrokontrolera ATmega32L na płytce ATP:
 - **Lab 1:** wyświetlacz 7-segmentowy.
+- **Lab 2:** 
+- **Lab 3:** 
+- **Lab 4:** 
+
