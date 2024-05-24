@@ -1,0 +1,3 @@
+Licznik tryb CTC
+
+- miganie diodą f=3Hz
