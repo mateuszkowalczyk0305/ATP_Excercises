@@ -36,3 +36,4 @@ ISR(TIMER1_COMPA_vect){
 	//zmiana stanu na pinie PA0
 	PORTA ^= (1<<PA0);
 }
+
