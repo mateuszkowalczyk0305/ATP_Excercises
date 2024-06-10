@@ -1,6 +1,6 @@
 # Zadania z programowania mikrokontrolera ATmega32L na płytce ATP:
-- **Lab 1:** wyświetlacz 7-segmentowy.
-- **Lab 2:** 
-- **Lab 3:** 
-- **Lab 4:** 
+- **Zad 1:** Wyświetlenie numeru indeksu na wyświetlaczu 7segmentowym w formie animacji.
+- **Zad 2:** Licznik tryb CTC: miganie diodą f=3Hz
+- **Zad 3:** LED PWM: korzystając z Timer0.
+- **Zad 4:** UART: Imię i nazwisko printowane w CMD
 
